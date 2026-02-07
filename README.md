@@ -1,2 +1,2 @@
-# PRTH-Crypt v4.2: (FALSE DONT USE YET 4.3 COMING  SOON)
+# PRTH-Crypt v4.3
 
