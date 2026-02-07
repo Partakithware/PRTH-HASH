@@ -29,7 +29,7 @@ gcc -O3 PRTHCRYPT.c -o prth
 - 100% data-independent (ZERO timing leaks possible)
 
 **Performance:**
-- ~100 ms for 12.5M iterations (depending on hardware, so make sure to test iterations to fit)
+- ~100 ms for 12.5M iterations [Intel® Core™ i7-7820HQ × 8] (depending on hardware, so make sure to test iterations to fit)
 - should be the same speed as bcrypt/PBKDF2
 - Can scale to 100M+ iterations if needed
 
