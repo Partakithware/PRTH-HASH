@@ -1,4 +1,4 @@
-# PRTH-Crypt v4.2:
+# PRTH-Crypt v4.2: (FALSE DONT USE YET 4.3 COMING  SOON)
 A high-performance, constant-time password hasher using a ChaCha20 like sponge construction and Base72 encoding, hardened against side-channel attacks.
 (use at own risk)
 ## Compile
