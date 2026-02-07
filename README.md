@@ -1,5 +1,5 @@
 # PRTH-Crypt v4.2:
-A high-performance, constant-time password hasher using a ChaCha20 sponge construction and Base72 encoding, hardened against side-channel attacks.
+A high-performance, constant-time password hasher using a ChaCha20 like sponge construction and Base72 encoding, hardened against side-channel attacks.
 (use at own risk)
 ## Compile
 # Clone the repo
@@ -25,7 +25,7 @@ gcc -O3 PRTHCRYPT.c -o prth
 
 **What it does:**
 - Pure iteration (no memory pool)
-- ChaCha20 mixing function
+- ChaCha20 like mixing function
 - 100% data-independent (ZERO timing leaks possible)
 
 **Performance:**
